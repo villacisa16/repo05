@@ -21,4 +21,6 @@ Referencio los dos repositorios:
 
 ![ERROR](./img/img5.png)
 
-Tercer cambio
+**□ 5.4 – Haz 3 commits en la rama (david02032022)**
+
+![ERROR](./img/img6.png)
