@@ -21,9 +21,36 @@ Referencio los dos repositorios:
 
 ![ERROR](./img/img5.png)
 
-**□ 5.4 – Haz 3 commits en la rama (david02032022)**
+**□ 5.4 – Haz 3 commits en la rama (adrian12092023)**
 
 ![ERROR](./img/img6.png)
 
 **□ 5.5 – En este caso, antes de hacer el merge sube ambas ramas al repositorio remoto. Verifica que se hayan subido correctamente. Lo hacemos así, ya que cuando realicemos el merge si nos equivocas podemos volver a clonar el repositorio sin necesidad de tener que volver a comenzar el ejercicio de 0.**
 
+Subo mi rama al repositorio remoto:
+![ERROR](./img/img7.png)
+
+Subo la rama principal al repositorio remoto:
+![ERROR](./img/img8.png)
+
+Yendo a GitHub compruebo que las dos ramas están subidas:
+
+![ERROR](./img/img9.png)
+
+**□ 5.6 – Basándote en el ejemplo que hemos visto anteriormente, realiza un commit no fast-forward en el que mergearemos la rama adrian12092023 con master.**
+
+![ERROR](./img/img10.png)
+
+
+**□ 5.7 – Visualiza el resultado tanto mediante el comando git log --all --oneline --decorate --graph, como desde el pluging de VSC**
+
+Con comando:
+![ERROR](./img/img11.png)
+
+Con VSC:
+![ERROR](./img/img12.png)
+
+**□ 5.8 – Explica las diferencias entre un merge FF y un merge no FF**
+
+Con no FF se crea una confirmación y de esta manera podemos ver el historial de la rama mergeada.
+En cambio, el merge FF fusiona directamente la nueva rama a la rama main sin confirmación, haciendo un poco más complicado el seguimiento de los movimientos realizados en las ramas.
