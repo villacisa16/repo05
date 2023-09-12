@@ -17,5 +17,5 @@ Referencio los dos repositorios:
 
 ![ERROR](./img/img4.png)
 
-**□ 5.3 - Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) y sitúate en dicha rama**
+**□ 5.3 - Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará adrian12092023) y sitúate en dicha rama**
 
