@@ -54,3 +54,16 @@ Con VSC:
 
 Con no FF se crea una confirmación y de esta manera podemos ver el historial de la rama mergeada.
 En cambio, el merge FF fusiona directamente la nueva rama a la rama main sin confirmación, haciendo un poco más complicado el seguimiento de los movimientos realizados en las ramas.
+
+---
+# EJERCICIO 6: GIT
+
+**□ Haz un alias con la finalidad de que cuando escribamos el comando git log adog nos ejecute lo siguiente:**
+
+Los alias de GIT se crean en el documento .gitconfig; Este documento en linux lo he encontrado dentro de la carpte .git que se crea al inicializar el repositorio local. Dentro de la carptea .git hay un directorio "config".
+Dentro de este archivo de texto he creado un apartado "[alias]" donde he creado el alias de la siguiente manera:
+
+![ERROR](./img/img13.png)
+
+Una vez guardado el archivo pruebo el comando:
+![ERROR](./img/img14.png)
