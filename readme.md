@@ -19,3 +19,11 @@ Referencio los dos repositorios:
 
 **□ 5.3 - Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará adrian12092023) y sitúate en dicha rama**
 
+![ERROR](./img/img5.png)
+
+**□ 5.4 – Haz 3 commits en la rama (david02032022)**
+
+![ERROR](./img/img6.png)
+
+**□ 5.5 – En este caso, antes de hacer el merge sube ambas ramas al repositorio remoto. Verifica que se hayan subido correctamente. Lo hacemos así, ya que cuando realicemos el merge si nos equivocas podemos volver a clonar el repositorio sin necesidad de tener que volver a comenzar el ejercicio de 0.**
+
