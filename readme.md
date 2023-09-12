@@ -19,3 +19,4 @@ Referencio los dos repositorios:
 
 **□ 5.3 - Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) y sitúate en dicha rama**
 
+![ERROR](./img/img5.png)
